@@ -19,5 +19,9 @@
     "protoo-client": "^4.0.4",
     "protoo-server": "^4.0.4",
     "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "watchify": "^3.11.1"
   }
 }
